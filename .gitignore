@@ -67,3 +67,6 @@ release
 
 #ignore the build artifacts
 com.*
+
+#ignore my ignore files
+*.ignr
