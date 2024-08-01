@@ -1,0 +1,36 @@
+{
+
+    "Actions": [
+      {
+        "Name": "Send Kill",
+        "UUID": "com.whitegrimreaper.whitegrimbot.sendkill",
+        "Tooltip": "Send a boss kill!",
+        "Icon": "image/black",
+        "States": [
+          {
+            "Image": "image/black",
+            "Title": "Send Kill",
+            "FontSize": 14
+          }
+        ]
+      }
+    ],
+    "Name": "whitegrimbot",
+    "Author": "whitegrimreaper_",
+    "Description": "Sends webhooks to a paired twitch bot",
+    "Version": "1.0",
+    "SDKVersion": "2.0",
+    "CodePath":"com.whitegrimreaper.whitegrimbot",
+    "Icon": "image/black",
+    "URL": "https://whitegrimreaper.com",
+    "OS": [
+      {
+          "Platform": "windows",
+          "MinimumVersion": "10"
+      }
+  ],
+  "Software": {
+      "MinimumVersion": "6.0"
+  }
+  }
+  
